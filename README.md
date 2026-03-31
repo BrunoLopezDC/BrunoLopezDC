@@ -2,12 +2,10 @@
 
 ### Desarrollador Full-Stack | Estudiante de Ingeniería en Desarrollo y Gestión de Software
 
-[cite_start]Soy un desarrollador de software con experiencia en consultoría, enfocado en el desarrollo web y móvil[cite: 95]. [cite_start]Cuento con el título de TSU en Desarrollo de Software Multiplataforma y actualmente curso la Ingeniería en Desarrollo y Gestión de Software[cite: 96]. Me apasiona construir arquitecturas limpias y sistemas eficientes.
+Soy un desarrollador de software con experiencia en consultoría, enfocado en el desarrollo web y móvil. Cuento con el título de TSU en Desarrollo de Software Multiplataforma y actualmente curso la Ingeniería en Desarrollo y Gestión de Software. Me apasiona construir arquitecturas limpias y sistemas eficientes.
 
-- [cite_start]**Actualmente trabajando en:** Mi formación como Ingeniero [cite: 96] [cite_start]y el desarrollo de plataformas web con Angular, Golang y Supabase[cite: 97, 122].
-- [cite_start]**Aprendiendo sobre:** Administración de bases de datos relacionales, arquitecturas de microservicios y despliegues serverless[cite: 98, 127, 128].
-- [cite_start]**Dato curioso:** Antes de meterme de lleno al código, sinteticé nanopartículas de plata con sargazo natural para crear un plaguicida ecológico[cite: 104].
-
+- **Actualmente trabajando en:** Mi formación como Ingeniero y el desarrollo de plataformas web con Angular, Golang y Supabase.
+- **Aprendiendo sobre:** Administración de bases de datos relacionales y no relacionales, arquitecturas y organización en los proyectos que ejecuto.
 ---
 
 ### Tecnologías y Herramientas
@@ -33,12 +31,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### Estadísticas de GitHub
-
-[![Estadísticas de Bruno](https://github-readme-stats.vercel.app/api?username=BrunoLopezDC&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC)](https://github.com/BrunoLopezDC)
 
 ---
 
